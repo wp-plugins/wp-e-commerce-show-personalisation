@@ -9,7 +9,7 @@ License: GPLv3
 
 == Description ==
 
-A simple plugin that shows the personlisation information entered by users in the cart widget, and during checkout.
+A simple plugin that shows the personalisation information entered by users in the cart widget, and during checkout.
 
 == Installation ==
 
@@ -18,20 +18,23 @@ A simple plugin that shows the personlisation information entered by users in th
 4. Eat cake
 
 Note: If you're running on WP e-Commerce 3.8.7.1 or below, make the required changes to your theme file - see here for details:
+
 * http://code.google.com/p/wp-e-commerce/source/detail?r=983
 * http://code.google.com/p/wp-e-commerce/source/detail?r=818
 
 == Frequently Asked Questions ==
 
 = I've installed it, but nothing is showing up - what gives?? =
+
 If you're running on WP e-Commerce 3.8.7.1 or below, make the required changes to your theme file - see here for details:
+
 * http://code.google.com/p/wp-e-commerce/source/detail?r=983
-* http://code.google.com/p/wp-e-commerce/source/detail?r=818
+* http://code.google.com/p/wp-e-commerce/source/detail?r=819
 
 == Screenshots ==
 
 1. Cart widget showing personalisation information
-2. Cart widget showing multiple personlised products
+2. Cart widget showing multiple personalised products
 3. Personalisation information shown during checkout
 
 == Changelog ==
