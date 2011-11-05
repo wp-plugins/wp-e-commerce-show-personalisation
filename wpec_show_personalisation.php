@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP e-Commerce Show Personlisation
+Plugin Name: WP e-Commerce Show Personalisation
 Plugin URI: http://www.leewillis.co.uk/wordpress-plugins/?utm_source=wordpress&utm_medium=www&utm_campaign=wpec-show-personalisation
 Description: A simple plugin that shows the personlisation information entered by users in the cart widget, and during checkout.
 Author: Lee Willis
