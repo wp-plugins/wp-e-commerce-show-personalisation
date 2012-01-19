@@ -17,7 +17,7 @@ A simple plugin that shows the personalisation information entered by users in t
 2. Activate the plugin through the 'Plugins' menu in WordPress
 4. Eat cake
 
-Note: If you're running on WP e-Commerce 3.8.7.2 or below, make the required changes to your theme file - see here for details:
+Note: If you're running on WP e-Commerce 3.8.7.5 or below, make the required changes to your theme file - see here for details:
 
 * http://code.google.com/p/wp-e-commerce/source/detail?r=983
 * http://code.google.com/p/wp-e-commerce/source/detail?r=818
@@ -26,7 +26,7 @@ Note: If you're running on WP e-Commerce 3.8.7.2 or below, make the required cha
 
 = I've installed it, but nothing is showing up - what gives?? =
 
-If you're running on WP e-Commerce 3.8.7.2 or below, make the required changes to your theme file - see here for details:
+If you're running on WP e-Commerce 3.8.7.5 or below, make the required changes to your theme file - see here for details:
 
 * http://code.google.com/p/wp-e-commerce/source/detail?r=983
 * http://code.google.com/p/wp-e-commerce/source/detail?r=818
