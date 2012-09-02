@@ -3,7 +3,7 @@ Contributors: leewillis77
 Donate link: http://www.leewillis.co.uk/wordpress-plugins/?utm_source=wordpress&utm_medium=www&utm_campaign=wpec-show-personalisation
 Tags: e-commerce, wp e-commerce, wpec, personalisation, custom, fields
 Requires at least: 3.2
-Tested up to: 3.2
+Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv3
 
