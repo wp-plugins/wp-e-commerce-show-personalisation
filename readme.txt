@@ -4,7 +4,7 @@ Donate link: http://www.leewillis.co.uk/wordpress-plugins/?utm_source=wordpress&
 Tags: e-commerce, wp e-commerce, wpec, personalisation, custom, fields
 Requires at least: 3.2
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv3
 
 == Description ==
@@ -38,6 +38,9 @@ If you're running on WP e-Commerce 3.8.7.5 or below, make the required changes t
 3. Personalisation information shown during checkout
 
 == Changelog ==
+
+= 1.1 =
+Compatability with recent WP e-Commerce updates. Patch courtesy of Alan Cox
 
 = 1.0 =
 Initial release
